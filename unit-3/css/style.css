@@ -2,9 +2,9 @@ body {
 	background-image: url("/Users/jodismith/Documents/General Assembly/HTML CSS & WEB DESIGN CIRCUIT/unit_3/images/1906DP-st.lucia-carnival_1-original_DUO.jpg");
 	background-color: #410635;
 	background-size: cover;
-	background-position: center;
 	background-repeat: no-repeat;
 	padding-bottom: 400px;
+	transform: translateX(4, 4);
 }
 header {
 	background-color: #FF3300;
@@ -32,7 +32,7 @@ a {
 	text-transform: uppercase;
 }
 h1 {
-	font-family: "verdana";
+	font-family: "Times New Roman";
 	font-size: 84px;
 	font-style: italic;
 	font-weight: bold;
@@ -43,17 +43,39 @@ h1 {
     left: 60px;
 }
 #flavors {
-	font-family: "arial";
-	font-size: 36px;
+	font-family: "Courier New";
+	font-size: 24px;
 	font-style: italic;
 	font-weight: bold;
 	color: #FF3300;
 	text-transform: uppercase;
-	padding-left: 180px;
+	text-decoration: underline;
+	padding-left: 120px;
+}
+#carnivalflavors {
+	font-family: "Courier New";
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FF3300;
+	text-transform: uppercase;
+	text-decoration: underline;
+	padding-left: 120px;
 }
 #cans {
 	background-repeat: no-repeat;
 	position: relative;
-	top: 140px;
     left: 1550px;
+    padding-left: 60px;
+    padding-bottom: 100px;
+    transform: scale3d(1.3,1.3,1.3);
+    transform: translateX(10);
+}
+ul {
+	font-family: "Times New Roman";
+	font-size: 18px;
+	font-style: italic;
+	color: #FF3300;
+	text-transform: uppercase;
+	padding-left: 180px;
 }
