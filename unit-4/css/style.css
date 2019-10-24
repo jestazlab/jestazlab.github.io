@@ -25,14 +25,6 @@ nav {
     top: 10px;
 
 }
-#socialmedia {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	color: #00CCFF
-}
 #buy {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 48px;
@@ -68,6 +60,14 @@ a {
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #410635;
+}
+#socialmedia {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #00CCFF
 }
 h3 {
 	font-family: 'Open Sans', sans-serif;
