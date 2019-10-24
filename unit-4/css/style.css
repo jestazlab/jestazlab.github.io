@@ -77,6 +77,8 @@ h3 {
 	font-weight: bold;
 	text-align: center;
 	color: #FF3300;
+	border: 3px solid #FF3300;
+    padding: 10px;
 }
 p {
 	font-family: 'Open Sans', sans-serif;
