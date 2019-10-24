@@ -30,6 +30,7 @@ a {
 	font-style: italic;
 	font-weight: bold;
 	text-transform: uppercase;
+	color: #410635;
 }
 h1 {
 	font-family: 'Shadows Into Light', cursive;
@@ -46,30 +47,8 @@ h1 {
 	font-size: 24px;
 	font-style: italic;
 	font-weight: bold;
-	color: #FF3300;
+	color: ##410635;
 	text-transform: uppercase;
-	text-decoration: underline;
-	padding-left: 120px;
-}
-#carnivalflavors {
-	font-family: "Courier New";
-	font-size: 24px;
-	font-style: italic;
-	font-weight: bold;
-	color: #FF3300;
-	text-transform: uppercase;
-	text-decoration: underline;
-	padding-left: 120px;
-}
-#cans {
-	background-repeat: no-repeat;
-	position: relative;
-}
-ul {
-	font-family: "Times New Roman";
-	font-size: 18px;
-	font-style: italic;
-	color: #FF3300;
-	text-transform: uppercase;
-	padding-left: 180px;
+	text-align: center;
+
 }
