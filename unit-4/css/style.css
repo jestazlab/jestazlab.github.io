@@ -53,14 +53,6 @@ h2 {
 	position: relative;
 	text-align: center;
 }
-a {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	font-style: italic;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #00CCFF;
-}
 #socialmedia {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
@@ -68,6 +60,14 @@ a {
 	text-transform: uppercase;
 	text-align: center;
 	color: #00CCFF
+}
+a {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #410635;
 }
 h3 {
 	font-family: 'Open Sans', sans-serif;
