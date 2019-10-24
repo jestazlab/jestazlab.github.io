@@ -42,6 +42,9 @@ h1 {
 	position: relative;
 	text-align: center;
 }
+#buy {
+	color: #FF3300;
+}
 h2 {
 	font-family: "Courier New";
 	font-size: 24px;
@@ -49,7 +52,4 @@ h2 {
 	font-weight: bold;
 	text-transform: uppercase;
 	text-align: center;
-
-#buy {
-	color: #FF3300;
 }
