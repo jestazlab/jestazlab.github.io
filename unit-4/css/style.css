@@ -33,6 +33,8 @@ nav {
 	text-transform: uppercase;
 	text-align: center;
 	color: #FF3300;
+	border: 3px solid #FF3300;
+    padding: 15px;
 }
 h1 {
 	font-family: 'Carter One', cursive;
