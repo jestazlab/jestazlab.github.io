@@ -42,7 +42,7 @@ a {
 	text-transform: uppercase;
 	color: #410635;
 }
-#buy {
+.buy {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 48px;
 	font-weight: bold;
