@@ -25,14 +25,6 @@ nav {
     top: 10px;
 
 }
-#buy {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 48px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	color: #00CCFF;
-}
 #socialmedia {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
@@ -40,6 +32,14 @@ nav {
 	text-transform: uppercase;
 	text-align: center;
 	color: #00CCFF
+}
+#buy {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #00CCFF;
 }
 h1 {
 	font-family: 'Carter One', cursive;
