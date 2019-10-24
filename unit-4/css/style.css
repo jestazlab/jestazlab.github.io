@@ -24,8 +24,13 @@ nav {
     top: 11px;
     left: 14px;
 }
-#buy {
-	color: #FF3300;
+h2 {
+	font-family: "Courier New";
+	font-size: 108px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
 }
 h1 {
 	font-family: 'Carter One', cursive;
@@ -37,14 +42,7 @@ h1 {
 	position: relative;
 	text-align: center;
 }
-h2 {
-	font-family: "Courier New";
-	font-size: 108px;
-	font-style: italic;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-}
+
 a {
 	font-family: "arial black";
 	font-size: 18px;
