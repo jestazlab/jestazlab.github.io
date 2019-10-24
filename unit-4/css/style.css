@@ -28,7 +28,7 @@ nav {
 }
 #buy {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 48px;;
+	font-size: 48px;
 	font-weight: bold;
 	text-transform: uppercase;
 	text-align: center;
@@ -69,3 +69,15 @@ a {
     text-align: center;
     background: #FF3300;
     align-content: center;
+}
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
