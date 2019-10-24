@@ -24,12 +24,7 @@ nav {
     position: relative;
     padding-left: 15px;
     top: 11px;
-    font-family: "arial black";
-	font-size: 18px;
-	font-style: italic;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
+    
 }
 #buy {
 	font-family: "arial black";
