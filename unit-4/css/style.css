@@ -63,3 +63,9 @@ a {
 	text-transform: uppercase;
 	color: #410635;
 }
+.box {
+        width: 25%;        
+        padding: 15px;
+        float: left;
+        text-align: center;
+        background: #f0e68c;
