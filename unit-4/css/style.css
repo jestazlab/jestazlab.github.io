@@ -36,6 +36,7 @@ h1 {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 84px;
 	font-style: italic;
+	letter-spacing: 1px;
 	color: #FF3300;
 	text-transform: uppercase;
 	position: relative;
