@@ -24,6 +24,9 @@ nav {
     top: 11px;
     left: 14px;
 }
+#buy {
+	color: #FF3300;
+	}
 #navcolor {
 	font-family: "arial black";
 	font-size: 18px;
@@ -49,5 +52,4 @@ h2 {
 	font-weight: bold;
 	text-transform: uppercase;
 	text-align: center;
-	color: #FF3300;
 }
