@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
 body {
 	background-image: url("../images/1906DP-st.lucia-carnival_1-original_DUO.jpg");
 	background-color: #410635;
@@ -31,7 +33,7 @@ a {
 	text-transform: uppercase;
 }
 h1 {
-	font-family: "Times New Roman";
+	font-family: 'Lobster', cursive;
 	font-size: 84px;
 	font-style: italic;
 	font-weight: bold;
