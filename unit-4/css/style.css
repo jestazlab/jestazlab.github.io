@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Carter+One&display=swap');
 
-#bgimagebody {
+body {
 	background-image: url("../images/167086_rockstarcollectorsedition_227573g.png");
 	background-color: #410635;
 	background-size: cover;
