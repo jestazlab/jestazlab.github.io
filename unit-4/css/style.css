@@ -23,16 +23,6 @@ nav {
     position: relative;
     padding-left: 15px;
     top: 11px;
-
-}
-#buy {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 48px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	color: #FF3300;
-	border: 3px solid #FF3300;
 }
 h1 {
 	font-family: 'Carter One', cursive;
@@ -51,6 +41,15 @@ a {
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #410635;
+}
+#buy {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #FF3300;
+	border: 3px solid #FF3300;
 }
 #box {
     width: 15%;        
