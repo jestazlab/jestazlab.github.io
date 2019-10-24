@@ -69,14 +69,6 @@ a {
 	text-transform: uppercase;
 	color: #410635;
 }
-#box {
-    width: 15%;        
-    padding: 3px;
-    float: center;
-    text-align: center;
-    background: #FF3300;
-    align-content: center;
-}
 h3 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
