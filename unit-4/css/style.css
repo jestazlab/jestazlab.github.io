@@ -33,6 +33,14 @@ nav {
 	text-align: center;
 	color: #00CCFF;
 }
+.socialmedia {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #00CCFF
+}
 h1 {
 	font-family: 'Carter One', cursive;
 	font-size: 120px;
@@ -83,12 +91,4 @@ p {
 	font-size: 24px;
 	text-align: center;
 	color: #FF3300;
-}
-.socialmedia {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	color: #00CCFF
 }
