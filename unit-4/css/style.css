@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Carter+One|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Racing+Sans+One&display=swap');
 
 body {
 	background-image: url("../images/167086_rockstarcollectorsedition_227573g.png");
@@ -27,7 +27,7 @@ nav {
 
 }
 #buy {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Racing Sans One', cursive;
 	font-size: 36px;
 	font-style: italic;
 	font-weight: bold;
@@ -46,7 +46,7 @@ h1 {
 	text-align: center;
 }
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Racing Sans One', cursive;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: bold;
@@ -54,7 +54,7 @@ h2 {
 	text-align: center;
 }
 a {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Racing Sans One', cursive;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: bold;
