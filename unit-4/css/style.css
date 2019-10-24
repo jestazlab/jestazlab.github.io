@@ -19,7 +19,7 @@ nav {
     padding-right: 15px;
     color: #410635;
 }
-.logo {
+#logo {
     position: relative;
     padding-left: 15px;
     top: 11px;
@@ -33,6 +33,7 @@ nav {
 	text-align: center;
 	color: #FF3300;
 	border: 3px solid #FF3300;
+    padding: 10px;
 }
 h1 {
 	font-family: 'Carter One', cursive;
