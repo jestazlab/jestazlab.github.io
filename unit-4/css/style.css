@@ -22,7 +22,7 @@ nav {
 }
 #logo {
     position: relative;
-
+    padding-left: 15px;
 }
 #buy {
 	font-family: "arial black";
