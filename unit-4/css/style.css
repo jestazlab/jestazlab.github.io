@@ -48,6 +48,7 @@ h2 {
 	font-size: 60px;
 	letter-spacing: 10px;
 	color: #FF3300;
+	font-style: italic;
 	text-transform: uppercase;
 	position: relative;
 	text-align: center;
@@ -72,6 +73,7 @@ h3 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	font-weight: bold;
+	font-style: italic;
 	text-align: center;
 	color: #00CCFF;
 
