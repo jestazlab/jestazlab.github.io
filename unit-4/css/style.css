@@ -47,8 +47,9 @@ h2 {
 	font-size: 24px;
 	font-style: italic;
 	font-weight: bold;
-	color: #FF3300;
 	text-transform: uppercase;
 	text-align: center;
 
+#buy {
+	color: #FF3300;
 }
