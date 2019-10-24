@@ -26,14 +26,6 @@ nav {
 }
 #buy {
 	color: #FF3300;
-	}
-a {
-	font-family: 'Carter One', cursive;
-	font-size: 18px;
-	font-style: italic;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
 }
 h1 {
 	font-family: 'Carter One', cursive;
@@ -53,3 +45,10 @@ h2 {
 	text-transform: uppercase;
 	text-align: center;
 }
+a {
+	font-family: "arial black";
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #410635;
