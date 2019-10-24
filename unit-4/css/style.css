@@ -44,6 +44,14 @@ h1 {
 	position: relative;
 	text-align: center;
 }
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
 a {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
