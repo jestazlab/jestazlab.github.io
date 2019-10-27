@@ -18,6 +18,7 @@ nav {
     bottom: 15px;
     padding-right: 15px;
     color: #410635;
+    font-style: italic;
 }
 .logo {
     position: relative;
@@ -50,6 +51,7 @@ h2 {
 	font-size: 64px;
 	letter-spacing: 10px;
 	color: #FF3300;
+	font-style: italic;
 	text-transform: uppercase;
 	position: relative;
 	text-align: center;
@@ -57,7 +59,6 @@ h2 {
 a {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
-	font-style: italic;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #00CCFF;
