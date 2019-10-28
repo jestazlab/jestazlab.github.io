@@ -75,6 +75,9 @@ p {
     padding-left: 10px;
     padding-top: 15px;
 }
+#bottomlogo {
+	color: #FF3300;
+}
 #icons {
 	list-style: none;
 }
