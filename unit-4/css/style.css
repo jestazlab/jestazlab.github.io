@@ -18,14 +18,13 @@ nav {
 }
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 120px;
+	font-size: 72px;
 	font-style: italic;
 	background-color: : #000000;
 	letter-spacing: 10px;
 	color: #FF3300;
 	text-transform: uppercase;
-	position: relative;
-	text-align: center;
+	position: absolute;
 }
 h2 {
 	font-family: 'Carter One', cursive, 'Verdana';
