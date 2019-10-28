@@ -8,10 +8,6 @@ body {
 }
 header {
 	background-color: #FF3300;
-	left: 0px;
-	padding: 0px;
-	margin: 0 auto;
-}
 nav {
 	word-spacing: 40px;
 	text-align: right;
