@@ -65,6 +65,9 @@ p {
 	margin: 0;
   	padding: 0.25em 0.75em;
 }
+#navbottom {
+	color: #FF3300;
+}
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 18px;
@@ -80,9 +83,6 @@ p {
 }
 #icons {
 	list-style: none;
-}
-#navbottom {
-	color: #FF3300;
 }
 #iconimages {
 	list-style: none;
