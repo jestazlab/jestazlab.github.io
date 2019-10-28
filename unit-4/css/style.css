@@ -28,7 +28,6 @@ h1 {
 }
 h2 {
 	font-family: 'Carter One', cursive, 'Verdana';
-	background-color: rgba(0,0,0,.25);
 	font-size: 64px;
 	letter-spacing: 10px;
 	color: #FF3300;
@@ -57,7 +56,7 @@ p {
 }
 .pages {
 	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 48px;
+	font-size: 36px;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #00CCFF;
