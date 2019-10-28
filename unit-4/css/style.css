@@ -11,9 +11,6 @@ header {
 nav {
 	word-spacing: 40px;
 	text-align: right;
-	position: relative;
-    bottom: 30px;
-    padding-right: 15px;
     color: #410635;
 }
 h1 {
