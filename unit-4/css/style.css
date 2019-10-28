@@ -85,7 +85,7 @@ p {
 	list-style: none;
 }
 #icons {
-	color-interpolation: #410635;
+	color-rendering: #410635;
 }
 #iconimages {
 	list-style: none;
