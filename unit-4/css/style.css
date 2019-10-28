@@ -54,9 +54,6 @@ p {
 	text-align: center;
 	color: #FF3300;
 }
-footer {
-	color: #00CCFF;
-}
 .pages {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 30px;
@@ -67,6 +64,9 @@ footer {
 	display: inline-block;
 	margin: 0;
   	padding: 0.25em 0.75em;
+}
+#footer {
+	color: #00CCFF;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
