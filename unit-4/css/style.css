@@ -70,11 +70,7 @@ p {
 	border: 4px solid #00CCFF;
 	padding: 0 0.25em;
 }
-.logo {
+.toplogo {
     position: relative;
-    padding-left: 15px;
-    top: 10px;
-}
-#carnival1b {
-	background-image: cover;
+    padding: 10 0 0 15;
 }
