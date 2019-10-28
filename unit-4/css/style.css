@@ -54,6 +54,9 @@ p {
 	text-align: center;
 	color: #FF3300;
 }
+footer {
+	color: #00CCFF;
+}
 .pages {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 30px;
