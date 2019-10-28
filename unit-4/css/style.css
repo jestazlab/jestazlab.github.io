@@ -65,9 +65,6 @@ p {
 	margin: 0;
   	padding: 0.25em 0.75em;
 }
-#footer {
-	color: #00CCFF;
-}
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 18px;
@@ -82,7 +79,6 @@ p {
 	list-style: none;
 }
 #navbottom {
-	list-style: none;
 	color: #00CCFF;
 }
 #iconimages {
