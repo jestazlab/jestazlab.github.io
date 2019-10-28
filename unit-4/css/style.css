@@ -18,7 +18,7 @@ nav {
 }
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 72px;
+	font-size: 96px;
 	font-style: italic;
 	background-color: : #000000;
 	letter-spacing: 10px;
@@ -40,7 +40,6 @@ h3 {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 30px;
 	font-weight: bold;
-	text-align: center;
 	color: #00CCFF;
 }
 a {
