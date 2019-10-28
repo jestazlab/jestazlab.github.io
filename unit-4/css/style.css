@@ -60,6 +60,7 @@ p {
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #00CCFF;
+	font-style: none;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
