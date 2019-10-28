@@ -37,6 +37,7 @@ h2 {
 	letter-spacing: 10px;
 	color: #FF3300;
 	text-transform: uppercase;
+	position: absolute;
 	text-align: center;
 }
 h3 {
