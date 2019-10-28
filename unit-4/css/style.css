@@ -73,5 +73,6 @@ p {
 }
 #toplogo {
     position: relative;
-    padding: 10 0 0 15;
+    padding-left: 10px;
+    padding-top: 15px;
 }
