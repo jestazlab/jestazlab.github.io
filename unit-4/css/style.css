@@ -24,7 +24,7 @@ h1 {
 	letter-spacing: 10px;
 	color: #FF3300;
 	text-transform: uppercase;
-	position: absolute;
+	position: relative;
 }
 h2 {
 	font-family: 'Carter One', cursive, 'Verdana';
