@@ -46,7 +46,13 @@ h3 {
 	text-align: center;
 	color: #00CCFF;
 }
-
+a {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #00CCFF;
+}
 p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
