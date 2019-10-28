@@ -32,6 +32,7 @@ h1 {
 }
 h2 {
 	font-family: 'Carter One', cursive, 'Verdana';
+	background-color: rgba(0,0,0,.25);
 	font-size: 64px;
 	letter-spacing: 10px;
 	color: #FF3300;
