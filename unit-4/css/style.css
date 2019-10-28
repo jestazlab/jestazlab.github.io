@@ -21,7 +21,7 @@ nav {
 }
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 84px;
+	font-size: 96px;
 	font-style: italic;
 	background-color: : #000000;
 	letter-spacing: 2px;
@@ -65,7 +65,7 @@ p {
 	background-color: #FF3300;
 	display: inline-block;
 	margin: 0;
-  	padding: 0.5em 1.25em;
+  	padding: 0.35em 1.0em;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
