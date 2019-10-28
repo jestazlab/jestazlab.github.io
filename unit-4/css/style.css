@@ -14,7 +14,7 @@ header {
 nav {
 	word-spacing: 40px;
 	text-align: right;
-	position: absolute;
+	position: relative;
     bottom: 15px;
     padding-right: 15px;
     color: #410635;
@@ -71,6 +71,6 @@ p {
 	padding: 0 0.25em;
 }
 #toplogo {
-    position: absolute;
+    position: relative;
     padding: 10 0 0 15;
 }
