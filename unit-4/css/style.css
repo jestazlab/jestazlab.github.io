@@ -21,7 +21,7 @@ nav {
 }
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 96px;
+	font-size: 84px;
 	font-style: italic;
 	background-color: : #000000;
 	letter-spacing: 2px;
@@ -53,12 +53,12 @@ a {
 }
 p {
 	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 24px;
+	font-size: 18px;
 	color: #FF3300;
 }
 .pages {
 	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 30px;
+	font-size: 36px;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #410635;
