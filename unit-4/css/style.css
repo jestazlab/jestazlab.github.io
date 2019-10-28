@@ -20,7 +20,7 @@ nav {
     color: #410635;
 }
 h1 {
-	font-family: 'Tahoma' black;
+	font-family: 'Carter One', cursive, 'Verdana';
 	font-size: 120px;
 	font-style: italic;
 	background-color: : #000000;
@@ -31,7 +31,7 @@ h1 {
 	text-align: center;
 }
 h2 {
-	font-family: 'Carter One', cursive;
+	font-family: 'Carter One', cursive, 'Verdana';
 	font-size: 64px;
 	letter-spacing: 10px;
 	color: #FF3300;
@@ -40,27 +40,27 @@ h2 {
 	text-align: center;
 }
 h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
 	color: #00CCFF;
 }
 a {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #00CCFF;
 }
 p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 24px;
 	text-align: center;
 	color: #FF3300;
 }
 .pages {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 48px;
 	font-weight: bold;
 	text-transform: uppercase;
