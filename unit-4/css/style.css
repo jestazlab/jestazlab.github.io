@@ -20,9 +20,10 @@ nav {
     color: #410635;
 }
 h1 {
-	font-family: 'Arial-Black';
+	font-family: 'Arial', sans-serif;
+	font-weight: 
 	font-size: 120px;
-	font-style: italic;
+	font-style: italic, Black;
 	background-color: : #000000;
 	letter-spacing: 10px;
 	color: #FF3300;
