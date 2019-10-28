@@ -62,6 +62,8 @@ p {
 	color: #410635;
 	background-color: #FF3300;
 	display: inline-block;
+	margin: 0;
+  	padding: 0;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
