@@ -63,7 +63,7 @@ p {
 	background-color: #FF3300;
 	display: inline-block;
 	margin: 0;
-  	padding: 0.25em 0;
+  	padding: 0.15em 0.35em;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
