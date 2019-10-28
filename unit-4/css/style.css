@@ -38,6 +38,7 @@ h2 {
 	color: #FF3300;
 	text-transform: uppercase;
 	position: absolute;
+	margin: 0;
 }
 h3 {
 	font-family: 'Open Sans', sans-serif, 'Arial';
