@@ -46,6 +46,16 @@ h3 {
 	text-align: center;
 	color: #00CCFF;
 }
+#buy {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #00CCFF;
+	border: 4px solid #00CCFF;
+	padding: 0 0.25em;
+}
 a {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
@@ -59,16 +69,7 @@ p {
 	text-align: center;
 	color: #FF3300;
 }
-#buy {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 48px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align: center;
-	color: #00CCFF;
-	border: 4px solid #00CCFF;
-	padding: 0 0.25em;
-}
+
 .logo {
     position: relative;
     padding-left: 15px;
