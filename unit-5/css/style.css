@@ -1,23 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Carter+One|Open+Sans:800|Racing+Sans+One&display=swap');
 
 body {
-	background-color: #410635;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-color: #FFFFCC;
 }
 header {
-	background-color: #FF3300;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 }
 footer {
-	background-color: #FF3300;
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
 nav {
-	word-spacing: 40px;
-	text-align: right;
-	position: relative;
-    bottom: 30px;
-    padding-right: 15px;
-    color: #410635;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
