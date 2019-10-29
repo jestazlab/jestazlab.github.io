@@ -12,16 +12,16 @@ nav {
     padding: .2em 18em;
     float: right;
 }
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
 aside {
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
     float: right;
-}
-article {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
 }
 footer {
 	background-color: #FF957E;
