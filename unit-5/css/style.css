@@ -17,25 +17,4 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
-    float: right;
-}
-.navlinks {
-	list-style: none;
-}
-#toplogo {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
-    position: relative;
-    padding-left: 10px;
-    padding-top: 15px;
-}
-#bottomlogo {
-	list-style: none;
-}
-#copy {
-	font-size: 14px;
-	color: #410635;
 }
