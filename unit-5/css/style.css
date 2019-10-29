@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Carter+One|Open+Sans:800|Racing+Sans+One&display=swap');
+
 
 body {
 	background-color: #FFFFCC;
@@ -17,54 +17,7 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
-}
-h1 {
-	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 96px;
-	font-style: italic;
-	background-color: : #000000;
-	letter-spacing: 2px;
-	color: #FF3300;
-	text-transform: uppercase;
-	position: relative;
-}
-h2 {
-	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 56px;
-	letter-spacing: 10px;
-	color: #FF3300;
-	text-transform: uppercase;
-	position: relative;
-	margin: 0;
-}
-h3 {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 30px;
-	font-weight: bold;
-	color: #00CCFF;
-}
-a {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
-}
-p {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	color: #FF3300;
-}
-.pages {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 36px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
-	background-color: #FF3300;
-	display: inline-block;
-	margin: 0;
-  	padding: 0.35em 1.0em;
+    float: right;
 }
 .navlinks {
 	list-style: none;
