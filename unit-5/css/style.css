@@ -19,6 +19,9 @@ nav {
     padding-right: 15px;
     color: #410635;
 }
+aside {
+	float: right;
+}
 h1 {
 	font-family: 'Carter One', cursive, 'Verdana';
 	font-size: 96px;
