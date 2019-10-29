@@ -1,8 +1,3 @@
-
-
-body {
-	background-color: #FFFFCC;
-}
 header {
 	background-color: #FFED74;
     border: 1px black solid;
@@ -34,4 +29,7 @@ div/section {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+.wrapper {
+	background-color: #FFFFCC;
 }
