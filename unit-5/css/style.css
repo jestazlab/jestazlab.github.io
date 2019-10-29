@@ -1,5 +1,5 @@
 body {
-	background-color: #FFFFCC;
+	background-color: #FFFFFF;
 }
 header {
 	background-color: #FFED74;
@@ -29,7 +29,7 @@ footer {
     padding: 20px;
 }
 div {
-	background-color: #FFE2B8;
+	background-color: #FFFFCC;
     border: 1px black solid;
     padding: 20px;
 }
