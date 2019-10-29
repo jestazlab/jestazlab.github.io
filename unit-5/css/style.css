@@ -19,5 +19,7 @@ nav {
     padding: .2em 18em;
 }
 aside {
+	background-color: #FFC675;
+    border: 1px black solid;
 	float: right;
 }
