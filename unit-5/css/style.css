@@ -16,6 +16,7 @@ footer {
 nav {
 	background-color: #E8C66A;
     border: 1px black solid;
+    padding: 10px 10;
 }
 aside {
 	float: right;
