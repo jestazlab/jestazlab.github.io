@@ -67,6 +67,9 @@ p {
 	margin: 0;
   	padding: 0.35em 1.0em;
 }
+.naxlinks {
+	list-style: none;
+}
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
 	font-size: 18px;
@@ -78,15 +81,6 @@ p {
     padding-top: 15px;
 }
 #bottomlogo {
-	list-style: none;
-}
-#navfooter {
-	list-style: none;
-}
-#icons {
-	list-style: none;
-}
-#iconimages {
 	list-style: none;
 }
 #copy {
