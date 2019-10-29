@@ -17,12 +17,10 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: .2em 18em;
+    float: right;
 }
 aside {
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
-}	
-#navaside {
-	float: right;
 }
