@@ -68,8 +68,7 @@ p {
   	padding: 0.35em 1.0em;
 }
 .navlinks {
-	width: 50%;
-	float: right;
+	list-style: none;
 }
 #toplogo {
 	font-family: 'Open Sans', sans-serif, 'Arial';
