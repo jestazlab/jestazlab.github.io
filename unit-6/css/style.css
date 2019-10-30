@@ -68,6 +68,7 @@ p {
   	padding: 0.35em 1.0em;
 }
 .navlinks {
+	width: 50%;
 	float: right;
 }
 #toplogo {
