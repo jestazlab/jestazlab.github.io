@@ -1,89 +1,38 @@
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Carter+One|Open+Sans:800|Racing+Sans+One&display=swap');
-
 body {
-	background-color: #410635;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-color: #FFFFFF;
 }
 header {
-	background-color: #FF3300;
-}
-footer {
-	background-color: #FF3300;
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 }
 nav {
-	word-spacing: 40px;
-	text-align: right;
-	position: relative;
-    bottom: 30px;
-    padding-right: 15px;
-    color: #410635;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
-h1 {
-	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 96px;
-	font-style: italic;
-	background-color: : #000000;
-	letter-spacing: 2px;
-	color: #FF3300;
-	text-transform: uppercase;
-	position: relative;
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
 }
-h2 {
-	font-family: 'Carter One', cursive, 'Verdana';
-	font-size: 56px;
-	letter-spacing: 10px;
-	color: #FF3300;
-	text-transform: uppercase;
-	position: relative;
-	margin: 0;
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
 }
-h3 {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 30px;
-	font-weight: bold;
-	color: #00CCFF;
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
-a {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
+div {
+	background-color: #FFFFCC;
+    border: 1px black solid;
+    padding: 20px;
 }
-p {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	color: #FF3300;
-}
-.pages {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 36px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
-	background-color: #FF3300;
-	display: inline-block;
-	margin: 0;
-  	padding: 0.35em 1.0em;
-}
-.navlinks {
-	list-style: none;
-}
-#toplogo {
-	font-family: 'Open Sans', sans-serif, 'Arial';
-	font-size: 18px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #410635;
-    position: relative;
-    padding-left: 10px;
-    padding-top: 15px;
-}
-#bottomlogo {
-	list-style: none;
-}
-#copy {
-	font-size: 14px;
-	color: #410635;
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
