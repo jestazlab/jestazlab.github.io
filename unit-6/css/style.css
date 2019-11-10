@@ -39,7 +39,7 @@ section {
 }
 .column {
     float: left;
-    width: 260px
+    width: 100px
     height: 300px;
     padding: 20px;
     margin: 0;
