@@ -47,7 +47,6 @@ section {
     height: 0;
 }
 .column {
-    .column {
     float: left;
     width: 30%
     height: 300px;
