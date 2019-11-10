@@ -37,15 +37,6 @@ section {
     border: 1px black solid;
     padding: 20px;
 }
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
 .column {
     float: left;
     width: 260px
@@ -54,7 +45,14 @@ section {
     margin: 0;
     border: 1px black solid;
     display: inline-block;
-
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 #two_column {
     background-color: #FFB7CF;
