@@ -37,6 +37,23 @@ section {
     border: 1px black solid;
     padding: 20px;
 }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.column {
+    float: left;
+    width: 260px
+    height: 300px;
+    padding: 20px;
+    margin: 0;
+    border: 1px black solid;
+}
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
@@ -67,20 +84,4 @@ section {
 }
 #six {
     background-color: #FFFF99
-}
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
-.column {
-    float: left;
-    width: 260px
-    height: 300px;
-    padding: 20px;
-    margin: 0;
-    border: 1px black solid;
 }
