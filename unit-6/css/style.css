@@ -37,12 +37,29 @@ section {
     border: 1px black solid;
     padding: 20px;
 }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.column {
+    .column {
+    float: left;
+    width: 30%
+    height: 300px;
+    padding: 20px;
+    margin: 0;
+    border: 1px black solid;
+}
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
 }
-
 #left {
     background-color: violet;
     border: 1px black solid;
@@ -50,7 +67,6 @@ section {
     float: left;
     width: 30%;
 }
-
 #right {
     background-color: pink;
     border: 1px black solid;
@@ -63,30 +79,10 @@ section {
 }
 #four {
     background-color: #99CCFF
-    border: 1px black solid;
-    padding: 30px;
-    float: left;   
-    width: 28%;
 }
 #five {
     background-color: #FF99FF
-    border: 1px black solid;
-    padding: 30px;
-    float: left;   
-    width: 28%;
 }
 #six {
     background-color: #FFFF99
-    border: 1px black solid;
-    padding: 30px;
-    float: left;   
-    width: 28%;
-}
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
 }
