@@ -42,7 +42,7 @@ section {
     width: 30%;
     padding: 20px;
     margin: 0;
-    display: block;
+    display: flex;
 
 }
 .clearfix:after {
