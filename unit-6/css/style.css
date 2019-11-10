@@ -37,6 +37,6 @@ section {
     border: 1px black solid;
     padding: 20px;
 }
-.threecolumn {
+#threecolumn {
     background-color: #CCFF99
 }
