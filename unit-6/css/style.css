@@ -66,21 +66,21 @@ section {
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 30%;
+    width: 28%;
 }
 #five {
     background-color: #FF99FF
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 30%;
+    width: 28%;
 }
 #six {
     background-color: #FFFF99
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 30%;
+    width: 28%;
 }
 .clearfix:after {
     visibility: hidden;
