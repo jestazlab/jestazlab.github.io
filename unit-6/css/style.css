@@ -53,6 +53,8 @@ section {
     padding: 20px;
     margin: 0;
     border: 1px black solid;
+    display: inline-block;
+
 }
 #two_column {
     background-color: #FFB7CF;
