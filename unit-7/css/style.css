@@ -10,9 +10,10 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
-    display: block;
+    display: inline-block;
     padding: 15px;
-    
+    float: none;
+
 }
 aside {
 	background-color: #FFC675;
