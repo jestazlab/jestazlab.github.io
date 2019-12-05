@@ -14,7 +14,7 @@ nav {
 nav a {
     border: 1px black solid;
     padding: 20px;
-    display: block;
+    display: inline-block;
     padding: 15px;
 }
 
