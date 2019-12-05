@@ -10,7 +10,7 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
-    display: block;
+    display: inline-block;
     float: left;
     padding: 15px;
     
