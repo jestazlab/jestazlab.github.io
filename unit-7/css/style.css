@@ -1,8 +1,8 @@
 body {
 	background-color: #FFFFFF;
-    max-width: 1280px;
     font-size: 16px;
 }
+
 header {
 	background-color: #FFED74;
     border: 1px black solid;
@@ -44,6 +44,9 @@ section {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+.wrapper {
+    max-width: 1200px;
 }
 .column {
     float: left;
