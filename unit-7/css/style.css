@@ -13,7 +13,7 @@ nav {
 
 nav a {
     border: 1px black solid;
-    padding: 0 4em;
+    padding: 0 2em;
     display: inline-block;
     margin: 1em;
 }
