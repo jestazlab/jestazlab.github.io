@@ -10,8 +10,7 @@ nav {
 	background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
-    display: inline-flex;
-    word-spacing: 60px;
+    display: inline;
     
 }
 aside {
