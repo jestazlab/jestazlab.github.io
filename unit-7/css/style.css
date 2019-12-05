@@ -7,7 +7,6 @@ header {
 	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
-    width: 50%;
 }
 nav {
 	background-color: #E8C66A;
@@ -46,9 +45,7 @@ section {
     border: 1px black solid;
     padding: 20px;
 }
-.wrapper {
-    max-width: 1200px;
-}
+
 .column {
     float: left;
     width: 30%;
