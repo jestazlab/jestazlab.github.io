@@ -11,6 +11,8 @@ nav {
     border: 1px black solid;
     padding: 20px;
     display: block;
+    float: right;
+    padding: 15px;
     
 }
 aside {
