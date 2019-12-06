@@ -50,7 +50,7 @@ section {
 }
 .column {
     float: left;
-    width: 28%;
+    width: 29%;
     padding: 20px;
 }
 .clearfix:after {
@@ -81,8 +81,6 @@ section {
     width: 60%;
 }
 #three_column {
-    margin: 0 auto;
-    align-content: center;
     background-color: #CCFF99
 }
 #four {
