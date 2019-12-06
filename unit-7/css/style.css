@@ -82,6 +82,7 @@ section {
 }
 #three_column {
     margin: 0 auto;
+    align-content: center;
     background-color: #CCFF99
 }
 #four {
