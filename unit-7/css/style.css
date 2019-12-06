@@ -135,11 +135,11 @@ h3 {
  }
  #left {
     float: none;
-    width: 90.5%;
+    width: 90.0%;
  }
 #right {
     float: none;
-    width: 90.5%;
+    width: 90.0;
  }
  .column {
     width: 27.5%;
