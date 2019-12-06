@@ -133,6 +133,9 @@ h3 {
 h3 {
     font-size: 0.7em;
  }
+ p {
+    font-size: 0.7em;
+ }
  #left {
     float: none;
     width: 90.0%;
