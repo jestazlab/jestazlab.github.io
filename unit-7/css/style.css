@@ -100,9 +100,6 @@ h3 {
 @media only screen and (max-width: 1280px) {
  .column {
     width: 30.0%;
- }
-h3 {
-    font-size: 1.1em;
  } 
 }
 
