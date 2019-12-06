@@ -101,9 +101,18 @@ h3 {
  .column {
     width: 29.5%;
  }
+h3 {
+    font-size: 1em;
+ } 
 }
 
 @media only screen and (max-width: 960px) {
+ .column {
+    width: 27.5%;
+ }
+}
+
+@media only screen and (max-width: 768px) {
  .column {
     width: 27.5%;
  }
