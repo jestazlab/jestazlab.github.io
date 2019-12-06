@@ -97,7 +97,7 @@ h3 {
 }
 
 @media only screen and (max-width: 800px) {
- .threecoloumn {
-    width: 28.5%;
+ .column {
+    width: 24.5%;
  }
 }
