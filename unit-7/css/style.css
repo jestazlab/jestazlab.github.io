@@ -39,12 +39,12 @@ div {
 	background-color: #FFFFCC;
     border: 1px black solid;
     padding: 20px;
-    max-width: 1200px;
 }
 section {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+    max-width: 1200px;
 }
 
 .column {
