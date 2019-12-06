@@ -47,6 +47,10 @@ section {
     padding: 20px;
 }
 
+.wrapper {
+    max-width: 1200px;
+}
+
 .column {
     float: left;
     width: 30%;
