@@ -81,6 +81,7 @@ section {
     width: 60%;
 }
 #three_column {
+    margin: 0 auto;
     background-color: #CCFF99
 }
 #four {
