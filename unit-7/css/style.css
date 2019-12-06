@@ -95,3 +95,9 @@ h3 {
 #six {
     background-color: #FFFF99
 }
+
+@media only screen and (max-width: 800px) {
+ .threecoloumn {
+    width: 28.5%;
+ }
+}
