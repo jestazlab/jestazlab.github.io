@@ -52,7 +52,6 @@ section {
     float: left;
     width: 28%;
     padding: 20px;
-    margin: 0 auto;
 }
 .clearfix:after {
     visibility: hidden;
@@ -83,6 +82,7 @@ section {
 }
 #three_column {
     background-color: #CCFF99
+    margin: 0 auto;
 }
 #four {
     background-color: #99CCFF
