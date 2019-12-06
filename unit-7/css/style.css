@@ -50,7 +50,7 @@ section {
 }
 .column {
     float: left;
-    width: 30%;
+    width: 29.75%;
     padding: 20px;
 }
 .clearfix:after {
