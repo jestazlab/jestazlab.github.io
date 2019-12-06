@@ -1,0 +1,150 @@
+body {
+	background-color: #FFFFFF;
+    font-size: 16px;
+    margin: 0 auto;
+}
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 1em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav {
+	background-color: #E8C66A;
+}
+nav a {
+    border: 1px black solid;
+    padding: 0 2em;
+    display: inline-block;
+    margin: 1em;
+}
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 1em;
+}
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 1em;
+}
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 1em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+div {
+	background-color: #FFFFCC;
+    border: 1px black solid;
+    padding: 1em;
+}
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 1em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h3 {
+    font-size: 1.2em;
+}
+.column {
+    float: left;
+    width: 30.5%;
+    padding: 1em;
+    margin: 0 auto
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 1em;
+}
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 1em;
+    float: left;
+    width: 30%;
+}
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 1em;
+    float: right;   
+    width: 60%;
+}
+#three_column {
+    background-color: #CCFF99
+}
+#four {
+    background-color: #99CCFF
+}
+#five {
+    background-color: #FF99FF
+}
+#six {
+    background-color: #FFFF99
+}
+
+@media only screen and (max-width: 1200px) {
+ .column {
+    width: 30.0%;
+ } 
+}
+
+@media only screen and (max-width: 960px) {
+ .column {
+    width: 27.5%;
+ }
+}
+
+@media only screen and (max-width: 768px) {
+ #left {
+    width: 25%;
+ }
+ #right {
+    width: 55%;
+ }
+ .column {
+    width: 27.5%;
+ }
+}
+
+@media only screen and (max-width: 320px) {
+ nav a {
+    display: block;
+    text-align: center;
+    margin: 0;
+    float: none;
+    width: auto;
+    padding: 0;
+ }
+h3 {
+    font-size: 0.7em;
+ }
+ p {
+    font-size: 0.7em;
+ }
+ #left {
+    float: none;
+    width: 90.0%;
+ }
+#right {
+    float: none;
+    width: 90.0%;
+ }
+ .column {
+    width: 18.75%;
+ }
+}
