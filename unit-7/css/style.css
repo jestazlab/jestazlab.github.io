@@ -133,11 +133,8 @@ h3 {
 h3 {
     font-size: 1em;
  }
- #left {
-    width: 10%;
- }
- #right {
-    width: 30%;
+ #left #right {
+    float: none;
  }
  .column {
     width: 18.5%;
