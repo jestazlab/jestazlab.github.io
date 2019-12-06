@@ -133,7 +133,10 @@ h3 {
 h3 {
     font-size: 1em;
  }
- #left #right {
+ #left {
+    float: none;
+ }
+#right {
     float: none;
  }
  .column {
