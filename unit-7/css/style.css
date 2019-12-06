@@ -96,6 +96,12 @@ h3 {
     background-color: #FFFF99
 }
 
+@media only screen and (max-width: 1285px) {
+ .column {
+    width: 24.5%;
+ }
+}
+
 @media only screen and (max-width: 800px) {
  .column {
     width: 24.5%;
