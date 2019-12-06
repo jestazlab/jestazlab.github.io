@@ -55,6 +55,7 @@ h3 {
     float: left;
     width: 30.5%;
     padding: 1em;
+    align-content: center;
     margin: 0 auto
 }
 .clearfix:after {
