@@ -125,14 +125,16 @@ h3 {
  nav {
     display: block;
  }
-
+h3 {
+    font-size: .5em;
+ }
  #left {
-    width: 25%;
+    width: 10%;
  }
  #right {
-    width: 55%;
+    width: 30%;
  }
  .column {
-    width: 27.5%;
+    width: 20.5%;
  }
 }
