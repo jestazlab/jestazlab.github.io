@@ -3,24 +3,22 @@ body {
     font-size: 16px;
     margin: 0 auto;
 }
-
 header {
 	background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 nav {
 	background-color: #E8C66A;
 }
-
 nav a {
     border: 1px black solid;
     padding: 0 2em;
     display: inline-block;
     margin: 1em;
 }
-
 aside {
 	background-color: #FFC675;
     border: 1px black solid;
@@ -35,6 +33,7 @@ footer {
 	background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 div {
@@ -49,13 +48,11 @@ section {
     max-width: 1200px;
     margin: 0 auto;
 }
-
 .column {
     float: left;
     width: 30%;
     padding: 20px;
     margin: 0;
-
 }
 .clearfix:after {
     visibility: hidden;
