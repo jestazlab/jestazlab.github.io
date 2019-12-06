@@ -11,7 +11,6 @@ header {
 }
 nav {
 	background-color: #E8C66A;
-
 }
 
 nav a {
@@ -45,10 +44,6 @@ section {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
-}
-
-.wrapper {
-    max-width: 1200px;
 }
 
 .column {
